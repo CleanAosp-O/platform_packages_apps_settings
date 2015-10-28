@@ -21,6 +21,7 @@
     <string name="caosp_settings_title">Tweaks</string>
     <string name="navbar_settings_title">Navbar options</string>
     <string name="power_menu_settings_title">Power menu options</string>
+    <string name="status_bar_settings_title">Status bar</string>
 
     <!-- Power Menu -->
     <string name="powermenu_restart_title">Restart</string>
@@ -226,5 +227,11 @@
     <string name="smartbar_custom_icon_size_title">Custom icon scaling</string>
     <string name="one_handed_mode_title">One handed mode</string>
     <string name="one_handed_mode_summary">Allows swiping on the navigation bar to enable one handed mode</string>
+
+    <!-- Battery percentage -->
+    <string name="status_bar_battery_percentage_title">Battery percentage</string>
+    <string name="status_bar_battery_percentage_default">Hidden</string>
+    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
 
 </resources>
