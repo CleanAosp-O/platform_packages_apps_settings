@@ -19,5 +19,12 @@
     <string name="header_category_caosp">Clean settings</string>
     <string name="category_caosp_summary">Clean features</string>
     <string name="caosp_settings_title">Tweaks</string>
+    <string name="power_menu_settings_title">Power menu options</string>
+
+    <!-- Power Menu -->
+    <string name="powermenu_restart_title">Restart</string>
+    <string name="powermenu_advanced_reboot_title">Advanced Reboot</string>
+    <string name="powermenu_screenshot_title">Screenshot</string>
+    <string name="powermenu_airplane_title">Airplane mode</string>
 
 </resources>
